@@ -12,6 +12,16 @@ This project is a PDF translation tool specifically designed for converting Germ
 - **PDF Generation**: Creates a professional-looking PDF from the combined Markdown.
 - **Web Interface**: Provides a user-friendly Streamlit interface for the entire process.
 
+
+## App Demo Images
+
+### Image 1
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/4a268ae5-92b7-4728-8bb7-92952c1cc0dc" />
+
+### Image 2
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/769213e9-f666-4e79-8613-ecad4b13615e" />
+
+
 ## Project Structure
 ```
 .
