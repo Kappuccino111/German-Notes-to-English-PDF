@@ -1,0 +1,14 @@
+corrected/
+English/
+screenshots/
+temp/
+venv/
+/output.pdf
+/Elektrodynamik1314Stoeckinger_update.pdf
+/combined_Electrodynamics_final.md
+
+*/pycache/*
+*.pyc
+*.pyo
+
+*.DS_Store
